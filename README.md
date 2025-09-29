@@ -8,11 +8,11 @@ This project helps in understanding how sorting works with animations.
 Clone the repo:
 
 ```bash
-git clone https://https://github.com/Amanmakandar7/SortingVizualizer
+git clone https://https:github.com/Amanmakandar7/SortingVizualizer
 cd sorting-visualizer
 npm install
-npm run dev
-
+npm run dev 
+```
 
 ## Features
 
