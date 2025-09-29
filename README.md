@@ -1,12 +1,32 @@
-# React + Vite
+# Sorting Visualizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React project to visualize sorting algorithms step by step.  
+This project helps in understanding how sorting works with animations.
 
-Currently, two official plugins are available:
+## Run Locally
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone the repo:
 
-## Expanding the ESLint configuration
+```bash
+git clone https://https://github.com/Amanmakandar7/SortingVizualizer
+cd sorting-visualizer
+npm install
+npm run dev
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Features
+
+Visualize Insertion Sort, Merge Sort, Quick Sort, etc.
+
+Adjustable array size and sorting speed
+
+Step-by-step animations for better understanding
+
+
+##Screenshots
+
+## Screenshot
+
+![Sorting Visualizer Screenshot](assets/Screenshot1.png)
+![Sorting Visualizer Screenshot](assets/Screenshot2.png)
+
