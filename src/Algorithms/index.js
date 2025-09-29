@@ -1,0 +1,5 @@
+export {Bubble} from "./bubble"
+export {Insertion} from "./insertion"
+export {selectionSort} from "./selection"
+export {QuickSort} from "./quick"
+export {MergeSort} from "./mergeSort"
