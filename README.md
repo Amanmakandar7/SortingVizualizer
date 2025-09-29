@@ -27,6 +27,6 @@ Step-by-step animations for better understanding
 
 ## Screenshot
 
-![Sorting Visualizer Screenshot](assets/Screenshot1.png)
-![Sorting Visualizer Screenshot](assets/Screenshot2.png)
+![Sorting Visualizer Screenshot](src/assets/Screenshot1.png)
+![Sorting Visualizer Screenshot](src/assets/Screenshot2.png)
 
